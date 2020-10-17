@@ -5,7 +5,7 @@ import meme from "./cheers.jpg";
 const Pwned = props => {
     return (
       <div className="page pwned">
-        <h1 className="pwtitle">You have fallen for a phishing test.</h1>
+        <h1 className="pwtitle">You have fallen for a localised phishing test.</h1>
         <div className="phish-container">
           <p className="fallen">
             Hackers would now have access to your GitHub account
@@ -20,8 +20,7 @@ const Pwned = props => {
           </p>
           <p className="instruction">
             2. Never open websites or attachments from an email that aren't from
-            a trusted source or that you haven't run through anti-virus software
-            first.
+            a trusted source.
           </p>
           <p className="instruction">
             3. Ensure your anti-virus, anti-spam and device software is all kept
