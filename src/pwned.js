@@ -28,7 +28,7 @@ const Pwned = props => {
           </p>
           <p className="instruction">
             4. Never enter personal information into a site you don't know or
-            can't trust
+            can't trust.
           </p>
           <p className="instruction">
             5. If you have fallen for a phishing email always tell the IT
